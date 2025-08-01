@@ -1,11 +1,12 @@
 https://github.com/gavinlyonsrepo/BMP280_LTSM
+https://github.com/ESP32Async/ESPAsyncWebServer?tab=readme-ov-file#how-to-install
 https://github.com/Nezaemmy/Neza74HC595
 https://github.com/Nezaemmy/NezaButton
 https://github.com/sstaub/ST7565DOG
 https://github.com/Jodeenio/74HC595Plus
 https://github.com/positronic57/MCP9808SensorLib
 https://github.com/me-RK/WiFiCreds
-https://github.com/leftCoast/LC_extSerialhttps://github.com/ESP32Async/ESPAsyncWebServer?tab=readme-ov-file#how-to-install
+https://github.com/leftCoast/LC_extSerial
 https://github.com/muchaste/Ardoxy/
 https://github.com/aneesharnavch/microdsp
 https://github.com/senex-code/CarBase
